@@ -1,0 +1,1 @@
+# stratum-tcp-scrypt.eobot.com-4444
